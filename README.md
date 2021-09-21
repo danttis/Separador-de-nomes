@@ -1,2 +1,2 @@
 # Separador-de-nomes
-Exemplo de como separar nomes usando R
+Exemplo de como separar nomes e sobrenomes usando R
